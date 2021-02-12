@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "0": {
+        "id": 2,
+        "username": "auer"
+      },
+      "1": {
+        "id": 8,
+        "username": "maverick"
+      },
+      "2": {
+        "id": 1,
+        "username": "pouros"
+      },
       "id": 1,
       "title": "Grapefruit",
       "subtitle": "A book of Instruction and Drawings.",
@@ -9,12 +21,20 @@
       "img_url": "https://books.google.com/books/content?id=3S8Rwr-iBdoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 2,
+          "id": "2",
           "username": "auer"
         },
         {
-          "id": 8,
+          "id": "8",
           "username": "maverick"
+        },
+        {
+          "id": "1",
+          "username": "undefined"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -45,6 +65,18 @@
       ]
     },
     {
+      "0": {
+        "id": 8,
+        "username": "maverick"
+      },
+      "1": {
+        "id": 9,
+        "username": "alex"
+      },
+      "2": {
+        "id": 1,
+        "username": "pouros"
+      },
       "id": 3,
       "title": "I'm Telling the Truth, But I'm Lying",
       "subtitle": "Essays",
@@ -53,12 +85,16 @@
       "img_url": "https://books.google.com/books/content?id=nHlbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
+          "id": "8",
           "username": "maverick"
         },
         {
-          "id": 9,
+          "id": "9",
           "username": "alex"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
       ]
     },
@@ -110,12 +146,20 @@
       "img_url": "https://books.google.com/books/content?id=54vbDgAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 7,
+          "id": "7",
           "username": "steuber"
         },
         {
-          "id": 4,
+          "id": "4",
           "username": "ann"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
       ]
     },
@@ -128,12 +172,16 @@
       "img_url": "http://books.google.com/books/content?id=FLFoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 3,
+          "id": "3",
           "username": "marvin"
         },
         {
-          "id": 5,
+          "id": "5",
           "username": "feels-like-summer"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
       ]
     },
@@ -146,20 +194,40 @@
       "img_url": "http://books.google.com/books/content?id=EtVfCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 9,
+          "id": "9",
           "username": "alex"
         },
         {
-          "id": 3,
+          "id": "3",
           "username": "marvin"
         },
         {
-          "id": 2,
+          "id": "2",
           "username": "auer"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
       ]
     },
     {
+      "0": {
+        "id": 8,
+        "username": "maverick"
+      },
+      "1": {
+        "id": 6,
+        "username": "steuber"
+      },
+      "2": {
+        "id": 5,
+        "username": "feels-like-summer"
+      },
+      "3": {
+        "id": 1,
+        "username": "pouros"
+      },
       "id": 9,
       "title": "Parable of the Sower",
       "subtitle": "",
@@ -168,18 +236,23 @@
       "img_url": "http://books.google.com/books/content?id=8thMLkahggcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
+          "id": "8",
           "username": "maverick"
         },
         {
-          "id": 6,
+          "id": "6",
           "username": "steuber"
         },
         {
-          "id": 5,
+          "id": "5",
           "username": "feels-like-summer"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
-      ]
+      ],
+      "username": "pouros"
     },
     {
       "id": 10,
@@ -190,12 +263,16 @@
       "img_url": "http://books.google.com/books/content?id=fc8PDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
+          "id": "8",
           "username": "maverick"
         },
         {
-          "id": 10,
+          "id": "10",
           "username": "macejkovic"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
       ]
     },
@@ -208,14 +285,19 @@
       "img_url": "http://books.google.com/books/content?id=nEcsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
+          "id": "8",
           "username": "maverick"
         },
         {
-          "id": 10,
+          "id": "10",
           "username": "macejkovic"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
-      ]
+      ],
+      "username": "pouros"
     }
   ],
   "users": [
